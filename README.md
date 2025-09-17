@@ -1,4 +1,4 @@
 
 ## Aperçu de l'application
 
-![Aperçu de l'application](src/assets/screen.png)
+![Aperçu de l'application](src/assets/bgimage.jpg)
